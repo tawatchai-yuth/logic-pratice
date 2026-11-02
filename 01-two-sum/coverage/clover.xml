@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1793599293217" clover="3.2.0">
+  <project timestamp="1793599293217" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="12" coveredelements="12" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
+    <file name="twoSum.ts" path="D:\coding\AI\logic-practice\01-two-sum\src\twoSum.ts">
+      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="9" type="stmt"/>
+      <line num="7" count="9" type="stmt"/>
+      <line num="8" count="23" type="stmt"/>
+      <line num="9" count="23" type="stmt"/>
+      <line num="11" count="23" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="6" type="stmt"/>
+      <line num="15" count="17" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
