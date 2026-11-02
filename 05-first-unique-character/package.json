@@ -1,0 +1,23 @@
+{
+  "name": "05-first-unique-character",
+  "version": "1.0.0",
+  "description": "ง่าย–ปานกลาง",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+    "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:coverage": "vitest run --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^5.0.5",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  }
+}

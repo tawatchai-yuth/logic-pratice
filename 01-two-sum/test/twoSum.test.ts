@@ -1,6 +1,6 @@
 
 import { describe, it, expect } from "vitest";
-import { twoSum } from "../src/twoSum";
+import { twoSum } from "../src";
 
 describe("twoSum", () => {
   // Basic cases
