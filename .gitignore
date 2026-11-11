@@ -6,3 +6,10 @@ node_modules
 04-flatten-array/src/AI.ts
 05-first-unique-character/src/AI.ts
 06-merge-intervals/src/AI.ts
+
+07-balanced-brackets/src/AI.ts
+08-custom-sort-strings/src/AI.ts
+09-autocomplete/src/AI.ts
+10-roman-numerals/src/AI.ts
+11-largest-number-from-digits/src/AI.ts
+12-tribonacci/src/AI.ts
